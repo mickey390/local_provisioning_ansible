@@ -32,3 +32,4 @@
 # 参考
 
 http://mawatari.jp/archives/mac-provisioning-by-homebrew-and-ansible
+http://qiita.com/ryurock/items/1432578d364985f6cb06
