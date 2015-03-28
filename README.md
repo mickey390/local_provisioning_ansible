@@ -20,9 +20,10 @@
 ```
 
 
-
 ## ミドルウェア用
-
+```
+% sudo ansible-playbook -i hosts -v dev-middleware.yml
+```
 
 
 ## その他（ユーティリティ）
