@@ -5,6 +5,14 @@
 # 概要
 自身のMacの環境をansibleを使って管理する。
 
+環境は下記のもの。
+```
+% sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.9.5
+BuildVersion:	13F34
+```
+
 # 使い方
 
 ## 開発環境用
