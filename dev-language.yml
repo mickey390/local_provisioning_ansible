@@ -24,6 +24,9 @@
     homebrew_packages:
       - go
       - scala
+      - python3
+      - ruby
+      - phpenv
 
     # Tap external Homebrew Cask repositories.
     homebrew_cask_repositories:
@@ -37,4 +40,7 @@
     #
     # state choices: [present, absent, installed, uninstalled] (default: present)
     homebrew_cask_packages:
+      - sublime-text
+      - atom
+      - textmate
 
