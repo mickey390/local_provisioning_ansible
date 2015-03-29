@@ -37,6 +37,19 @@ BuildVersion:	13F34
 ## その他（ユーティリティ）
 
 
+# アプリケーション検索
+## brew 
+```
+% brew search
+% brew search <word>
+```
+
+## brew cask
+```
+% brew cask search
+% brew cask search <word>
+```
+
 
 # 参考
 
