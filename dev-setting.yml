@@ -26,6 +26,7 @@
       - git
       - brew-cask
       - csshx
+      - pssh
       - tmux
       - tree
       - wget
